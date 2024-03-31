@@ -3,7 +3,7 @@ import dashboard
 import classifyPage
 
 st.set_page_config(
-    page_title="Deforgify",
+    page_title="VeriGuard",
     page_icon="🤖",
     layout="wide")
 
@@ -12,9 +12,9 @@ PAGES = {
     "Classify Image": classifyPage
 }
 
-st.sidebar.title("Deforgify")
+st.sidebar.title("VeriGuard")
 
-st.sidebar.write("Deforgify is a tool that utilizes the power of Deep Learning to distinguish Real images from the Fake ones.")
+st.sidebar.write("VeriGuard is a tool that utilizes the power of Deep Learning to distinguish Real images from the Fake ones.")
 
 st.sidebar.subheader('Navigation:')
 selection = st.sidebar.radio("", list(PAGES.keys()))
