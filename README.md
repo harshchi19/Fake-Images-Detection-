@@ -90,7 +90,7 @@ After achieving 96% accuracy on the testing data initially, we were releaved thi
 - Deploying web app on GitHub Pages.
 - Efficient use of GitHub actions.
 
-## 🚀 What's next for Deforgify
+## 🚀 What's next for VeriGuard
 
 - Building a mobile app
 - Adding more data to the dataset
