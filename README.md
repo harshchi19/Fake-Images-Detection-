@@ -1,4 +1,4 @@
-# Deforgify
+# VeriGuard
 
 ## 💡 Inspiration
 
