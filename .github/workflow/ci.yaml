@@ -1,4 +1,4 @@
-name: deforgify
+name: VeriGuard
 
 on:
   pull_request:
